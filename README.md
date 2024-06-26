@@ -9,7 +9,7 @@ It stores data in json like documents
 
 - To open mongodb shell in terminal - `mongosh`  
 
-- To open mongodb shell in terminal - `exit`  
+- To close mongodb shell in terminal - `exit`  
 
 - Clear screen - `cls`  
 
