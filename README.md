@@ -161,6 +161,6 @@ db.students.dropIndex("name_1")
 - create collection size is max size here we have considered 10MB and max means max no. of documents  
 db.createCollection("teachers",{capped:true,size:10000000,max:100},{autoIndexId:false})  
 
-db.createCollection("courses")
+- db.createCollection("courses")  
 db.courses.drop()  
 
